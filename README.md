@@ -46,4 +46,4 @@ A high-performance log collection system designed to handle continuous data stre
 
 ### 📫 Contact
 * **Email:** tae.sukhaputi@gmail.com
-* **LinkedIn:** [Your LinkedIn URL]
+* **LinkedIn:** https://www.linkedin.com/in/taechin-sukhaputi
